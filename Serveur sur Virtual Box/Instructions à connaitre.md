@@ -1,4 +1,4 @@
-### Se connecter au site distant
+## Se connecter au site distant
 ```
 ssh hostname@adresse_ip (-p 4242)
 ssh debian@51.77.231.174 -p 4242

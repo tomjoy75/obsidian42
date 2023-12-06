@@ -1,6 +1,7 @@
 ## Instructions utiles
 - [[awk]]
 - [conditions dans un script](https://buzut.net/maitriser-les-conditions-en-bash/)
+- [[cron]]
 ## Ou trouver l'info
 - `uname` : architecture information
 - `/proc/cpuinfo` : CPU information

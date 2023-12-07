@@ -30,9 +30,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbd1562936c64971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serveur sur Virtual Box/Configuration du serveur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba0d101c7fcf84eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serveur sur Virtual Box/Instructions à connaitre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dc45360dfe88a4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,19 +192,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c23370af7851d10f",
+  "active": "ba0d101c7fcf84eb",
   "lastOpenFiles": [
-    "Serveur sur Virtual Box/Hostname, Users & Groups.md",
+    "Serveur sur Virtual Box/Monitoring.sh.md",
+    "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
+    "Serveur sur Virtual Box/Serveur sur VirtualBox.pdf",
     "Serveur sur Virtual Box/Instructions à connaitre.md",
     "Serveur sur Virtual Box/cron.md",
-    "Serveur sur Virtual Box/Monitoring.sh.md",
+    "Serveur sur Virtual Box/Hostname, Users & Groups.md",
     "Serveur sur Virtual Box/Dictionnaire.md",
-    "Serveur sur Virtual Box/Configuration du serveur.md",
-    "Serveur sur Virtual Box/awk.md",
-    "Serveur sur Virtual Box/Serveur sur VirtualBox.pdf",
-    "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
-    "Serveur sur Virtual Box/Commandes utiles.md",
     "Serveur sur Virtual Box/AppArmor.md",
+    "Serveur sur Virtual Box/awk.md",
+    "Serveur sur Virtual Box/Commandes utiles.md",
+    "Root, SU et sudo.md",
+    "Serveur sur Virtual Box/Configuration du serveur.md",
+    "ToDo.md",
     "Serveur sur Virtual Box/Gestion des paquets.md",
     "Obsidian.md",
     "Serveur sur Virtual Box",

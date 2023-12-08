@@ -14,7 +14,7 @@ $ lsblk
 ## En global
 ```bash
 head -n 2 /etc/os-release		: Check operateur systeme
-/usr/sbin/aa-status				:APParmor actif?
+sudo aa-status					:APParmor actif?
 whoami							:check if root user
 sudo chage -l **userlog**		:info password user
 sudo ufw status					:Status ufw

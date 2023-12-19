@@ -49,7 +49,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serveur sur Virtual Box/Commandes utiles.md",
+                "file": "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdc4d260c129c954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a1f3ed0b681e587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serveur sur Virtual Box/Configuration du serveur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "427fc70e7b5da76e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serveur sur Virtual Box/Password Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09b062cb817352a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serveur sur Virtual Box/AppArmor.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serveur sur Virtual Box/Commandes utiles.md",
+                "file": "Serveur sur Virtual Box/Password Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serveur sur Virtual Box/Commandes utiles.md",
+                "file": "Serveur sur Virtual Box/Password Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serveur sur Virtual Box/Commandes utiles.md"
+                "file": "Serveur sur Virtual Box/Password Policy.md"
               }
             }
           }
@@ -192,21 +240,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba0d101c7fcf84eb",
+  "active": "427fc70e7b5da76e",
   "lastOpenFiles": [
+    "Serveur sur Virtual Box/Root, SU et sudo.md",
+    "Serveur sur Virtual Box/Password Policy.md",
+    "Serveur sur Virtual Box/Instructions à connaitre.md",
+    "Serveur sur Virtual Box/Configuration du serveur.md",
     "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
     "ToDo.md",
-    "Serveur sur Virtual Box/Configuration du serveur.md",
-    "Serveur sur Virtual Box/Hostname, Users & Groups.md",
+    "Serveur sur Virtual Box/Systeme de fichiers.md",
     "Serveur sur Virtual Box/Serveur sur VirtualBox.pdf",
-    "Serveur sur Virtual Box/Instructions à connaitre.md",
     "Serveur sur Virtual Box/Monitoring.sh.md",
+    "Serveur sur Virtual Box/Installation de la virtual box.md",
+    "Serveur sur Virtual Box/Hostname, Users & Groups.md",
     "Serveur sur Virtual Box/Dictionnaire.md",
-    "Serveur sur Virtual Box/Commandes utiles.md",
-    "Root, SU et sudo.md",
     "Serveur sur Virtual Box/cron.md",
     "Serveur sur Virtual Box/AppArmor.md",
     "Serveur sur Virtual Box/awk.md",
+    "Serveur sur Virtual Box/Commandes utiles.md",
+    "Les réseaux de zéro/Les réseaux de zéro.md",
     "Serveur sur Virtual Box/Gestion des paquets.md",
     "Obsidian.md",
     "Serveur sur Virtual Box",

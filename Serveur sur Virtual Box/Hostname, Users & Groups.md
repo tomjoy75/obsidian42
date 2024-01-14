@@ -7,7 +7,7 @@ ou éditer le fichier /etc/hostname
 
 voir [[Dictionnaire#systemd]]
 ## modification users
-- `useradd <name>` crée un nouvel utilisateur
+- `adduser <name>` crée un nouvel utilisateur
 - `getent passwd <name>` checker qu'il a bien été créé
 - `sudo chage -l <name>` vérifier les expirations de mots de passe de l'utilisateur 
 - `usermod` modification paramètres de l'utilisateur :
@@ -25,4 +25,4 @@ voir [[Dictionnaire#systemd]]
 - `groupdel` supprime un groupe
 - `groups` affiche les groupes de l'utilisateur
 - `id -g` montre l'id du groupe principal d'un utilisateur
-- `getent group` affiche la liste des utilisateurs d'un groupe
+- `getent group` affiche la liste des utilisateurs d'un groupe (ou tous les groupes sans arguments)

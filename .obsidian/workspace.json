@@ -4,115 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "569befaa2e5562c8",
+        "id": "38c8de3542227859",
         "type": "tabs",
         "children": [
           {
-            "id": "1da83cc3674ec47a",
+            "id": "d31fbeadbc54af73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serveur sur Virtual Box/Monitoring.sh.md",
+                "file": "Terminal, console et shell.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c23370af7851d10f",
+            "id": "247ff6bf9ca0a47c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serveur sur Virtual Box/Instructions à connaitre.md",
+                "file": "Formater le texte avec ANSI.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "fbd1562936c64971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Configuration du serveur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba0d101c7fcf84eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdc4d260c129c954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a1f3ed0b681e587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Configuration du serveur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "427fc70e7b5da76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Password Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09b062cb817352a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/AppArmor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dc45360dfe88a4a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serveur sur Virtual Box/Password Policy.md",
+                "file": "Formater le texte avec ANSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serveur sur Virtual Box/Password Policy.md",
+                "file": "Formater le texte avec ANSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serveur sur Virtual Box/Password Policy.md"
+                "file": "Formater le texte avec ANSI.md"
               }
             }
           }
@@ -232,30 +152,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "427fc70e7b5da76e",
+  "active": "247ff6bf9ca0a47c",
   "lastOpenFiles": [
-    "Serveur sur Virtual Box/Root, SU et sudo.md",
-    "Serveur sur Virtual Box/Password Policy.md",
-    "Serveur sur Virtual Box/Instructions à connaitre.md",
-    "Serveur sur Virtual Box/Configuration du serveur.md",
-    "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
-    "ToDo.md",
-    "Serveur sur Virtual Box/Systeme de fichiers.md",
-    "Serveur sur Virtual Box/Serveur sur VirtualBox.pdf",
+    "Terminal, console et shell.md",
+    "Formater le texte avec ANSI.md",
     "Serveur sur Virtual Box/Monitoring.sh.md",
-    "Serveur sur Virtual Box/Installation de la virtual box.md",
+    "Serveur sur Virtual Box/Password Policy.md",
+    "Serveur sur Virtual Box/Root, SU et sudo.md",
+    "Serveur sur Virtual Box/Serveur sur VirtualBox.pdf",
+    "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
+    "Serveur sur Virtual Box/Systeme de fichiers.md",
+    "ToDo.md",
+    "Test/Three laws of motion.md",
+    "Test/Serveur sur VirtualBox.pdf",
+    "Test/Obsidian.md",
+    "Test/Law of Inertia.md",
     "Serveur sur Virtual Box/Hostname, Users & Groups.md",
     "Serveur sur Virtual Box/Dictionnaire.md",
-    "Serveur sur Virtual Box/cron.md",
     "Serveur sur Virtual Box/AppArmor.md",
+    "Serveur sur Virtual Box/Configuration du serveur.md",
+    "Serveur sur Virtual Box/Instructions à connaitre.md",
+    "Serveur sur Virtual Box/cron.md",
+    "Serveur sur Virtual Box/Installation de la virtual box.md",
     "Serveur sur Virtual Box/awk.md",
     "Serveur sur Virtual Box/Commandes utiles.md",
     "Les réseaux de zéro/Les réseaux de zéro.md",

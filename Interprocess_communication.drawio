@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2024-02-21T14:59:24.414Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="4nFoA_DrZnWDG2VBO4fM" version="23.1.5" type="google">
+  <diagram name="Page-1" id="ehhjR0IfxsUII2wxumTw">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="zigBiwRH-vZRpvm2NU5n-1" target="zigBiwRH-vZRpvm2NU5n-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-7" value="fork" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];fontSize=16;" connectable="0" vertex="1" parent="zigBiwRH-vZRpvm2NU5n-6">
+          <mxGeometry x="-0.1333" y="-3" relative="1" as="geometry">
+            <mxPoint x="8" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-1" value="parent" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;horizontal=1;labelPosition=center;verticalLabelPosition=top;align=center;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-5" value="child" style="whiteSpace=wrap;html=1;rounded=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-8" value="fd[0]" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="115" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-9" value="fd[1]" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="205" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-10" value="fd[0]" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="435" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-11" value="fd[1]" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="525" y="140" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="zigBiwRH-vZRpvm2NU5n-12" target="zigBiwRH-vZRpvm2NU5n-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="283" />
+              <mxPoint x="200" y="230" />
+              <mxPoint x="455" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="zigBiwRH-vZRpvm2NU5n-12" target="zigBiwRH-vZRpvm2NU5n-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="289" y="320" />
+              <mxPoint x="135" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-12" value="pipe" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;horizontal=1;textDirection=ltr;verticalAlign=middle;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=1;startArrow=none;startFill=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;strokeColor=default;backgroundOutline=0;noJump=0;" edge="1" parent="1" source="zigBiwRH-vZRpvm2NU5n-9" target="zigBiwRH-vZRpvm2NU5n-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="210" />
+              <mxPoint x="470" y="210" />
+              <mxPoint x="470" y="284" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="zigBiwRH-vZRpvm2NU5n-11" target="zigBiwRH-vZRpvm2NU5n-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="180" />
+              <mxPoint x="560" y="290" />
+              <mxPoint x="450" y="290" />
+              <mxPoint x="450" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-19" value="&lt;font color=&quot;#cc0000&quot;&gt;Read&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zigBiwRH-vZRpvm2NU5n-20" value="&lt;font color=&quot;#3399ff&quot;&gt;Write&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

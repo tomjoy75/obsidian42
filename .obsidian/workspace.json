@@ -8,146 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1da83cc3674ec47a",
+            "id": "96519e95fb8e272b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Serveur sur Virtual Box/Monitoring.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c23370af7851d10f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Instructions à connaitre.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbd1562936c64971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Configuration du serveur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba0d101c7fcf84eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdc4d260c129c954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a1f3ed0b681e587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Configuration du serveur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "427fc70e7b5da76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Monitoring.sh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "502569133f73c089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4170cdfd77087c7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/Installation de la virtual box.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b24a75ae910195c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI prompts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56f6edb8fc4a81ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "optimiser la lumière.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09b062cb817352a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serveur sur Virtual Box/AppArmor.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.3"
               }
             }
           },
@@ -155,12 +21,28 @@
             "id": "6dc45360dfe88a4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interprocess Communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93d394e2121369b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pipes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "optimiser la lumière.md",
+                "file": "Pipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "optimiser la lumière.md",
+                "file": "Pipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,17 +148,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "optimiser la lumière.md"
+                "file": "Pipes.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,23 +168,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56f6edb8fc4a81ab",
+  "active": "93d394e2121369b4",
   "lastOpenFiles": [
-    "AI prompts.md",
-    "optimiser la lumière.md",
-    "Serveur sur Virtual Box/Installation de la virtual box.md",
-    "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
+    "Interprocess Communication.md",
+    "Pipes.md",
+    "ToDo.md",
+    "Interprocess_communication.drawio.png",
+    "Interprocess_communication.drawio",
+    "Serveur sur Virtual Box/AppArmor.md",
     "Serveur sur Virtual Box/Instructions à connaitre.md",
+    "Serveur sur Virtual Box/Configuration du serveur.md",
+    "Serveur sur Virtual Box/Serveur sur VirtualBox.md",
+    "AI prompts.md",
+    "Serveur sur Virtual Box/Installation de la virtual box.md",
     "Serveur sur Virtual Box/Monitoring.sh.md",
+    "optimiser la lumière.md",
     "Serveur sur Virtual Box/Root, SU et sudo.md",
     "Serveur sur Virtual Box/Systeme de fichiers.md",
     "Serveur sur Virtual Box/Dictionnaire.md",
     "Serveur sur Virtual Box/cron.md",
     "Serveur sur Virtual Box/Hostname, Users & Groups.md",
     "Serveur sur Virtual Box/Password Policy.md",
-    "Serveur sur Virtual Box/Configuration du serveur.md",
-    "Serveur sur Virtual Box/AppArmor.md",
-    "ToDo.md",
     "Serveur sur Virtual Box/Serveur sur VirtualBox.pdf",
     "Serveur sur Virtual Box/awk.md",
     "Serveur sur Virtual Box/Commandes utiles.md",
